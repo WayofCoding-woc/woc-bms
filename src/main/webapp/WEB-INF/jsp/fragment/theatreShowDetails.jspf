@@ -1,0 +1,28 @@
+<div class="container">
+    <table align="center" class="table table-bordered table-striped " style="max-width:500px;">
+        <tr>
+            <th>Show Date</th>
+            <td>
+                <div><fmt:formatDate type="date" value="${showDate}" /></div>
+            </td>
+        </tr>
+        <tr>
+            <th>Show Time</th>
+            <td>
+                <div>${showTime}</div>
+            </td>
+        </tr>
+        <tr>
+            <th>Theatre Name</th>
+            <td>
+                <div>${theatreName}</div>
+            </td>
+        </tr>
+        <tr>
+            <th>Movie Name</th>
+            <td>
+                <div>${movieName}</div>
+            </td>
+        </tr>
+    </table>
+</div>

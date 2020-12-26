@@ -1,0 +1,20 @@
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
+<%@ taglib uri="http://java.sun.com/jsp/jstl/fmt" prefix="fmt"%>
+<%@taglib uri="http://www.springframework.org/tags/form" prefix="form"%>
+
+<html>
+
+<head>
+<title>woc-Book Movie Ticket</title>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+</head>
+
+<body>
+    <div style="text-align:left; border:1px solid blue;background-color: darkorange; padding:10px;">
+        <a href="https://www.wayofcoding.com" class="navbar-brand" style="color: white;">
+        <h3>Now! You can book a movie ticket @WayOfCoding</h3> The Premium Java Online Training Platform
+        </a>
+    </div>
+
